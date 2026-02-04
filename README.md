@@ -2,9 +2,9 @@
 - README Generated with the help of ChatGPT
 
 📋 Overview
-This project implements a **desktop management system** for a coffee shop using **Java Swing** and **MySQL**.  
-It supports **CRUD operations** for customers, beverages, and orders, along with loyalty point management.  
-The system demonstrates real-world **database integration**, **GUI design**, and **business logic implementation**.
+- This project implements a **desktop management system** for a coffee shop using **Java Swing** and **MySQL**.  
+- It supports **CRUD operations** for customers, beverages, and orders, along with loyalty point management.  
+- The system demonstrates real-world **database integration**, **GUI design**, and **business logic implementation**.
 
 The system supports multiple operations:
 - Insert customers, beverages, menu items, and orders
